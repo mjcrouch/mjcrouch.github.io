@@ -6,7 +6,7 @@ layout: default
 ---
 # About Me
 
-I am a software developer with over a decade of professional experience in Financial Software, primarily working with C++, but also JavaScript and other technologies
+I am a software developer with over a decade of professional experience in Financial Software, primarily working with C++, but also JavaScript, Java and other technologies
 
 While I am not an expert in Functional Programming, I have seen the light of FP and believe there's a lot to be gained from making use of FP principles in any language. I try to build software following a philosopy of limiting side-effects as much as possible, and making small, composable parts that can easily be tested and reasoned about.
 
