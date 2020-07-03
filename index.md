@@ -20,7 +20,7 @@ I maintain [a fork of the "Perforce for VS Code" extension](https://marketplace.
 
 I also like to dabble in other projects in my free time. Over the years I have:
 
-* Built and published (briefly) an Android game in java using libgdx, including scoreboards, facebook integration using the REST API and other exciting features that no longer see the light of day
+* Built and published (briefly) an Android game in java using libgdx, including scoreboards, facebook integration using the graph API and other exciting features that no longer see the light of day
 * Explored VR game development using Unity / C# - I am a member of the Oculus Start developer program
 * Used microcontrollers / embedded programming in C++ to create [homemade devices](https://www.flickr.com/photos/mattccttam/31730852913/in/photolist-QkWDd4-QkWV5V)
 * And more things that must not be notable enough for me to remember them here
